@@ -1,0 +1,6 @@
+D:\workspaces\spring-cloud\user-service-client\src\main\java\com\cloud\user\service\client\web\controller\UserRibbonController.java
+D:\workspaces\spring-cloud\user-service-client\src\main\java\com\cloud\user\service\client\ping\MyPing.java
+D:\workspaces\spring-cloud\user-service-client\src\main\java\com\cloud\user\service\client\web\controller\UserServiceClientController.java
+D:\workspaces\spring-cloud\user-service-client\src\main\java\com\cloud\user\service\client\hystrix\UserRibbonClientHystrixCommand.java
+D:\workspaces\spring-cloud\user-service-client\src\main\java\com\cloud\user\service\client\rule\MyRule.java
+D:\workspaces\spring-cloud\user-service-client\src\main\java\com\cloud\user\service\client\UserServiceClientApplication.java
